@@ -1,18 +1,11 @@
-# 📦 Promptaro-Llama2 Chatbot (crafted by mikeryoma, Curio Inc.)
+# 📦 promptaro-openai-gpt chatbot with OpenAI models
 ```
 ```
-A prompt structured chatbot with OpenAI GPT models (crafted by mikeryoma, Curio Inc.)
+A prompt-structured chatbot (version 0.5) with OpenAI GPT models (crafted by mikeryoma, Curio Inc.)
+You need to add your OpenAI API key to Streamlit secrets, by editing the .streamlit/secrets.toml file in the project directory and adding the following lines to it:
 
-## Demo App
+# .streamlit/secrets.toml
+OPENAI_API_KEY = "YOUR_API_KEY"
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mikeryoma-promptaro-openai-gpt.streamlit.app/)
-
-## Section Heading
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+## Sample Screen
+![202308 1-200041](https://github.com/mikeryoma/promptaro-openai-gpt/assets/137243459/966e4bd3-bb30-492c-bdc2-f74ba7553202)

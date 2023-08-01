@@ -1,16 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Promptaro-Llama2 Chatbot (crafted by mikeryoma, Curio Inc.)
 ```
-⬆️ (Replace above with your app's name)
 ```
-
-Description of the app ...
+A prompt structured chatbot with OpenAI GPT models (crafted by mikeryoma, Curio Inc.)
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mikeryoma-promptaro-openai-gpt.streamlit.app/)
 
 ## Section Heading
-
 This is filler text, please replace this with text for this section.
 
 ## Further Reading
